@@ -1,7 +1,11 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Natha&show_icons=true&bg_color=00000000)
 <br>
+<br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Natha&layout=compact)
+<br>
+<br>
 <br>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Natha&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
